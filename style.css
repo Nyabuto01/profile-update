@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#profile-pic{
+    border-radius: 50%;
+}
+#input-file{
+    display: none;
+}
+.prof{
+    background-color: rgb(21, 152, 21);
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    height: 600px;
+    width: 400px;
+    position: relative;
+}
